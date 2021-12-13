@@ -7,10 +7,26 @@ Pewlett-Hackard have requested to create a local database that houses all their 
 -Deliverable 2: The Employees Eligible for the Mentorship Program
 
 ### Technical Analysis
-Data Source: 
-Employee_Database_challenge.sql
-Data Tools: PostgreSQL, pgAdmin
-Software: pgAdmin 6.1, Python 3.8.8, Visual Studio Code 1.62.2
+Data Source:
+
+- departments.csv
+- dept_emp.csv
+- dept_manager.csv
+- employees.csv
+- salaries.csv
+- titles.csv
+- Employee_Database_challenge.sql
+
+Data Tools: 
+
+- PostgreSQL
+- pgAdmin
+
+Software: 
+
+- pgAdmin 6.1, 
+- Python 3.8.8, 
+- Visual Studio Code 1.62.2
 
 ### Deliverable 1
 
@@ -24,3 +40,8 @@ Software: pgAdmin 6.1, Python 3.8.8, Visual Studio Code 1.62.2
 1940 candidates that can qualify to become members of the mentorship program.
 
 ![Mentor eligibility](https://user-images.githubusercontent.com/88118587/145773193-ce8bffc0-9300-4398-a41e-428640face14.PNG)
+
+## Results
+
+As retiring employees come in large numbers, the company will have to increase the number of mentors in the company if it wants to make a smoother transition for many to come.
+
