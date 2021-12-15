@@ -32,8 +32,7 @@ Software:
 
 90398 are soon to be retired.
 
-![retirement_titles](https://user-images.githubusercontent.com/88118587/145775116-6987b636-ef80-4ed2-996d-e635e8db1abe.PNG)
-
+![yee](https://user-images.githubusercontent.com/88118587/146115824-5be21a78-c6f6-4ec0-ae2c-3ae9e14ced14.PNG)
 
 
 ### Deliverable 2
